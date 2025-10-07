@@ -19,4 +19,4 @@
 ![Back-end](https://go-skill-icons.vercel.app/api/icons?i=spring,mysql)
 
 #### Infra
-![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws)
+![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws,terraform)
