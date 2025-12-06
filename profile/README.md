@@ -36,8 +36,8 @@
 <img src="https://github.com/user-attachments/assets/4244e097-c87e-4b84-85cb-813c74f3e5d9" width="270px" alt="#">
 <img src="https://github.com/user-attachments/assets/e360b81f-3957-4620-94c4-c9e332d318ad" width="270px" alt="#">
 
-<!-- #### 3. 커뮤니티
+#### 3. 커뮤니티
 > 자유게시판을 이용하여 다른 사용자와 소통할 수 있습니다. 더 나아가 원하는 사용자들과의 그룹 형성도 가능합니다.
 
-<!-- #### 4. 독립 서점
+#### 4. 독립 서점
 > 각 지역의 독립서점에 대해 홍보 및 소개를 확인할 수 있습니다.
