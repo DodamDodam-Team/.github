@@ -19,7 +19,7 @@
 ![Back-end](https://go-skill-icons.vercel.app/api/icons?i=spring,mysql)
 
 #### Infra
-![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws,terraform)
+![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,jenkins,prometheus,grafana)
 
 ### 📱 주요 기능
 #### 1. 독서 기록
