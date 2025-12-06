@@ -1,5 +1,5 @@
 # 도담도담
-> 나를 이해하고 성장하는 여정, 그 시작과 만족 SODI와 함께해요.
+> 매일 조금씩, 도담도담 성장하는 나의 독서
 
 <img width="7680" height="4320" alt="Image" src="https://github.com/user-attachments/assets/607b3f8b-f689-434d-89f7-d77aa42429a0" />
 
